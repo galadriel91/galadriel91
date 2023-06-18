@@ -35,5 +35,5 @@
 <div>
     <a href="https://whitetree.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/website-1F6E8C?style=flat&logo=HomeAdvisor&logoColor=fff"></a>
     <a href="mailto:g_ala@naver.com"><img src="https://img.shields.io/badge/g_ala@naver.com-EA4335?style=flat&logo=Gmail&logoColor=fff"></a>
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgaladriel91&count_bg=%23222222&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+    <a href="https://github.com/galadriel91"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgaladriel91&count_bg=%23222222&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 </div>
