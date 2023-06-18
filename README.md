@@ -30,3 +30,9 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=galadriel91&show_icons=true&include_all_commits=true&theme=holi">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galadriel91&layout=compact&theme=holi">
 </div>
+
+<h2>Find me here</h2>
+<div>
+    <a href="https://whitetree.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/website-1F6E8C?style=flat&logo=HomeAdvisor&logoColor=fff"></a>
+    <a href="mailto:g_ala@naver.com"><img src="https://img.shields.io/badge/g_ala@naver.com-EA4335?style=flat&logo=Gmail&logoColor=fff"></a>
+</div>
