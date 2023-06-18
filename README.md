@@ -1,3 +1,5 @@
-[![galadriel91's GitHub stats](https://github-readme-stats.vercel.app/api?username=galadriel91)](https://github.com/galadriel91/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galadriel91&layout=compact)](https://github.com/galadriel91/github-readme-stats)
-
+<h2>My GitHub Stats 📊</h2>
+<p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=galadriel91&show_icons=true&include_all_commits=true&theme=holi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galadriel91&layout=compact&theme=holi">
+</p>
