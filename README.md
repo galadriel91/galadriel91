@@ -25,10 +25,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"//>
 </div>
 
-<h2>GitHub Stats 📊</h2>
+<h2>GitHub Stats</h2>
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=galadriel91&show_icons=true&include_all_commits=true&theme=holi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galadriel91&layout=compact&theme=holi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=galadriel91&show_icons=true&include_all_commits=true&theme=transparent">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galadriel91&layout=compact&theme=transparent">
 </div>
 
 <h2>Find me here</h2>
