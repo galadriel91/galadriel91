@@ -1,5 +1,3 @@
-<h2>안녕하세요! Hi,there <img src='https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png' width="40px"/></h2>
-
 <img width="1000" alt="header_1" src="https://user-images.githubusercontent.com/99501431/209255979-ec22d6b7-6b32-4903-80da-71fd0490437d.png">
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Lee+MoonSeob;I+like+web+development" alt="Typing SVG" /></a>
@@ -11,6 +9,20 @@
     <h4>멋진 디자인의 웹 사이트를 보면 어떻게 만들었는지 항상 궁금합니다.</h4>
     <h4>개발 스킬과 동시에 디자인 스킬도 향상 시키고 싶습니다.</h4>
     <h4>현재는 프론트엔드 개발과 장고를 적극적으로 학습하고 있습니다.</h4>
+</div>
+
+<h2>Techs I've experienced</h2>
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="vue logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"" height="40" width="52" alt="django logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="52" alt="photoshop logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"//>
 </div>
 
 <h2>GitHub Stats 📊</h2>
